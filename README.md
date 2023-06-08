@@ -1,3 +1,6 @@
+# [openvapour.lily.software](https://openvapour.lily.software) A heavily modified open-source theme with self-hosted components following GPLv3
+
+### Original readme.md:
 # Solid
 
 A landing page template.
